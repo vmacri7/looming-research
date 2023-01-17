@@ -16,7 +16,7 @@ The media folder contains demo images and videos.
 
 ## What each script does
 
-* ### jetbot-segment
+* ### jetbot-segment/windows-segment
 
 This script uses a single pixel intensity value, turns the image into grey scale and counts the number of pixels either above or below that threshhold.  It uses this counted area to calculate looming and move the jetbot forward or backward to maintain a looming value of zero.
 
