@@ -10,6 +10,10 @@ The windows-scripts folder contains scripts that can be run on a windows compute
 
 The jetbot-scripts folder contains scripts that require the jetbot to run due to Robot() library commands.
 
+* ### media
+
+The media folder contains demo images and videos.
+
 ## What each script does
 
 * ### jetbot-segment
