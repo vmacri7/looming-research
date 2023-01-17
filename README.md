@@ -1,4 +1,5 @@
 # From equations to actions A system-level design research experience of an undergraduate student
+![Jetbot Cover Image](media/double_jetbot_picture.jpg)
 
 ## What each folder contains
 
