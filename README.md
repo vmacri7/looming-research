@@ -2,6 +2,7 @@
 ![Jetbot Cover Image](media/double_jetbot_picture.jpg)
 
 ### [Demo Video Link](https://drive.google.com/file/d/1kkbqQResYu_HojdH2yA2xiN2NYgxqWBY/view?usp=share_link)
+### [Paper Link](https://drive.google.com/file/d/1kkbqQResYu_HojdH2yA2xiN2NYgxqWBY/view?usp=share_link)
 
 ## What each folder contains
 
