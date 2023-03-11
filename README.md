@@ -1,4 +1,8 @@
 # From equations to actions A system-level design research experience of an undergraduate student
+![Jetbot Cover Image](media/double_jetbot_picture.jpg)
+
+### [Demo Video](https://drive.google.com/file/d/1kkbqQResYu_HojdH2yA2xiN2NYgxqWBY/view?usp=share_link)
+### [Final Paper](./Final%20Upload%20ASEE%20SE%20From%20Equations%20to%20Actions%20Paper.pdf)
 
 ## What each folder contains
 
